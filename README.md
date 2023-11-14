@@ -13,4 +13,8 @@ __bold too__
 ***bold and italics***
 
 ~~cross off~~
-X<sup>2</sup> 
+X<sup>2</sup> <sub>0</sub> 
+
+😄 😙
+
+' this is code'
