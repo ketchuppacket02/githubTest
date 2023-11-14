@@ -20,7 +20,7 @@ X<sup>2</sup> <sub>0</sub>
 
 `this is code` 
 
-```
+```js
 const a = 10
 let y = 8
 ```
