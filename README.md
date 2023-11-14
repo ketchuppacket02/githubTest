@@ -13,4 +13,4 @@ __bold too__
 ***bold and italics***
 
 ~~cross off~~
-<mark>hightlight</mark> 
+X<sup>2</sup> 
