@@ -1,6 +1,2 @@
 # githubTest
-this is a github markdown page
-
-... 
-aint no way
-...
+this is a github markdown page  vic
